@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Ashutosh7788
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... c, c++,Html, java,java script, python
-- 💞️ I’m looking to collaborate on ... web developement projects
-- 📫 How to reach me ... ashutosheherat01@gmail.com
+👋 Hi there! I'm Ashutosh Behera, a passionate computer science engineering student from Synergy Institute of Engineering and Technology, Dhenknal. I’m deeply interested in web development and aspire to become a software developer.
 
-<!---
-Ashutosh7788/Ashutosh7788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me:
+
+🔧 Skills:   
+
+* HTML, CSS, JavaScript
+* React, Node.js
+* Git, GitHub
+  
+📚 Currently Learning:
+
+* Advanced JavaScript frameworks
+* Backend development
+  
+💡 Interests:
+* Web Development
+* Software Development
+  
+🌟 Highlights
+
+🎓 Education:
+ * B.Tech in Computer Science Engineering from Synergy Institute of Engineering and Technology, Dhenknal
+
+📫 How to Reach Me
+LinkedIn: https://www.linkedin.com/in/ashutosh-behera-2b1429295/
+Email: ashutoshbeherat01@gmail.com
