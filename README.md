@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh7788
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... c, c++, java, python
+- 🌱 I’m currently learning ... c, c++,Html, java,java script, python
 - 💞️ I’m looking to collaborate on ... web developement projects
 - 📫 How to reach me ... ashutosheherat01@gmail.com
 
